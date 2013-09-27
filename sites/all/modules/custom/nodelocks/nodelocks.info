@@ -1,3 +1,0 @@
-name = Nodelocks
-description = Allows administrators to identify nodes that should never be deleted.
-core = 7.x
